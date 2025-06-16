@@ -1,10 +1,10 @@
-# 🐿️ Squirrel Rush
+Squirrel Rush
 
 **Squirrel Rush** is a 2D endless runner game built using Unity.
 
 ---
 
-## 🎮 Game Overview
+Game Overview
 
 - Play as a squirrel running through a forest
 - Endless runner
@@ -14,7 +14,7 @@
 
 ---
 
-## 📱 APK Download
+APK Download
 
 You can download the compiled Android APK from this repository under `/Builds/SquirrelRush.apk`
 
@@ -25,7 +25,7 @@ To install:
 
 ---
 
-## 🛠️ How to Run the Project
+How to Run the Project
 
 1. Open the project in **Unity 6.0.0f1**
 2. Scenes included:
@@ -37,7 +37,7 @@ To install:
 
 ---
 
-## 🙋‍♂️ Developed by
+Developed by
 
 Ovini Rodrigo  
 IAMDT 3873 – Mobile Game Development Assignment  
